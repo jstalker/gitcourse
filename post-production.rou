@@ -2,7 +2,7 @@ load post-production.conn
 find hosts
 assign ip-addresses
 
-add-rule apply-max-bandwidth 25% switch S1 host A
-add-rule apply-max-bandwidth 25% switch S1 host B
-add-rule apply-max-bandwidth 25% switch S1 host C
+add-rule apply-max-bandwidth 27% switch S1 host A
+add-rule apply-max-bandwidth 23% switch S1 host B
 add-rule apply-max-bandwidth 25% switch S1 host D
+add-rule apply-max-bandwidth 25% switch S1 host C
