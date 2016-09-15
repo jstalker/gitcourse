@@ -11,4 +11,4 @@ add-rule apply-max-bandwidth 10% switch S1 host F
 add-rule apply-max-bandwidth 10% switch S1 host G
 add-rule apply-max-bandwidth 10% switch S1 host H
 add-rule apply-max-bandwidth 10% switch S1 host I
-add-rule apply-max-bandwidth 10% switch S1 host K
+add-rule apply-max-bandwidth 10% switch S2 host L
