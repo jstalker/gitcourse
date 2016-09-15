@@ -1,6 +1,5 @@
 add-host A to-group SpecialEffects
 add-host B to-group SpecialEffects
-add-host C to-group SpecialEffects
 add-host D to-group SpecialEffects
 add-host E to-group QualityControl
 add-host F to-group QualityControl
@@ -21,6 +20,5 @@ initial-login D stevey.jimmy@ppp.com abcd1234!
 initial-login E andy.powers@ppp.com abcd1234!
 initial-login F bobby.sands@ppp.com abcd1234!
 initial-login G sandy.fields@ppp.com abcd1234!
-initial-login H tim.shore@ppp.com abcd1234!
 initial-login I mike.john@ppp.com abcd1234!
 initial-login J david.davidson@ppp.com abcd1234!
