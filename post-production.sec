@@ -5,7 +5,7 @@ add-host E to-group QualityControl
 add-host F to-group QualityControl
 add-host G to-group QualityControl
 add-host H to-group QualityControl
-add-host I to-group QualityManager
+add-host I to-group QualityManager2
 add-host J to-group SpecialEffectsManager
 
 add-rule SpecialEffects requires-login
